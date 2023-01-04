@@ -1,0 +1,21 @@
+.button-primary {
+  width: 100%;
+  height: 40px;
+
+  display: block;
+
+  background: var(--color-primary);
+  color: var(--color-bg);
+
+  font-size: 1rem;
+  font-family: inherit;
+
+  border: 0;
+  border-radius: var(--border-radius-sm);
+
+  cursor: pointer;
+}
+
+.button-primary:active {
+  background: var(--color-primary-dark);
+}

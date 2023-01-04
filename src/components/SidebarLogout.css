@@ -1,0 +1,24 @@
+.sidebar-logout {
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-top: auto;
+  margin-bottom: 1rem;
+  padding: 1rem;
+
+  background: none;
+  color: #818181;
+
+  font-size: 1.2rem;
+
+  border: 0;
+
+  cursor: pointer;
+}
+
+.sidebar-logout:hover {
+  color: #ec6969;
+}

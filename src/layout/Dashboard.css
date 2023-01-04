@@ -1,0 +1,13 @@
+.dashboard {
+  display: flex;
+
+  overflow: hidden;
+}
+
+.dashboard-body {
+  flex-grow: 1;
+
+  padding: 1rem;
+
+  overflow: auto;
+}
